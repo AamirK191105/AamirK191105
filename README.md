@@ -1,16 +1,13 @@
-## Hi there 👋
+[![Aamir Khan. IT student building web apps and analysing data.](assets/header.svg)](https://github.com/AamirK191105?tab=repositories)
 
-<!--
-**AamirK191105/AamirK191105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Aspiring IT student exploring every branch of tech.](assets/typing.svg)
 
-Here are some ideas to get you started:
+[Repositories](https://github.com/AamirK191105?tab=repositories) • [Portfolio](https://aamirk191105.github.io) • [LinkedIn](https://www.linkedin.com/in/aamir-khan-611548293/) • [Email](mailto:aamirkhan191105@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![About](assets/about.svg)
+
+![Stats](assets/stats.svg)
+
+![Tools](assets/tools.svg)
+
+![Next up: cybersecurity](assets/focus.svg)
