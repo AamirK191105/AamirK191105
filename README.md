@@ -12,4 +12,4 @@
 
 ![Next up: cybersecurity](assets/focus.svg) 
 
-![Current Progress:](<img src="https://raw.githubusercontent.com/AamirK191105/cybersecurity-progress-tracker/main/progress-card.svg" alt="Cybersecurity roadmap progress">)
+![Current Progress:](https://github.com/AamirK191105/cybersecurity-progress-tracker/blob/main/progress-card.svg)
